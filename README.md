@@ -5,7 +5,7 @@ Data sourced from [COVID-19 Data Repository by the Center for Systems Science an
 
 ## Visualizations made
 - bar chart race
-- chloropleth map
+- choropleth map
   - Confirmed Cases
   - Recovered Cases
   - Deaths
